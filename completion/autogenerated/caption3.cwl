@@ -21,6 +21,7 @@
 \DeclareCaptionSubType#S
 \DeclareCaptionTextFormat{arg1}{arg2}#S
 \DeclareCaptionType#S
+\acused#S
 \bothIfFirst{arg1}{arg2}#S
 \bothIfSecond{arg1}{arg2}#S
 \caption#S
@@ -28,14 +29,19 @@
 \captionmargin#S
 \captionseparator#S
 \captionsetup#S
+\captiontextend#S
+\captiontextstart#S
 \centerfirst#S
 \centerlast#S
 \clearcaptionsetup#S
 \csname#S
+\endnote#S
+\endnotemark#S
 \expandafter#S
 \footnote#S
 \footnotemark#S
 \glsunset#S
+\hypertarget#S
 \insertcaption#S
 \insertcaptionname#S
 \insertcaptionnumber#S

@@ -2,6 +2,7 @@
 #include:etex
 \csname#S
 \eTeX#S
+\extrafloats{arg1}#S
 \globbox#S
 \globboxblk#S
 \globcount#S

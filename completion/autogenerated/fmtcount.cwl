@@ -4,7 +4,6 @@
 #include:fcprefix
 #include:fmtprefix
 #include:ifthen
-#include:ifxetex
 #include:xkeyval
 \AAAlphnum#S
 \AAAlph{arg1}#S

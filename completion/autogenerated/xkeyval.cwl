@@ -6,8 +6,7 @@
 \XKeyValLoaded#S
 \XKeyValUtilsLoaded#S
 \csname#S
-\csname#S
-\csname{arg1}#S
+\csname{arg1}{arg2}#S
 \delpresetkeys#S
 \delsavekeys#S
 \expandafter#S
@@ -18,7 +17,6 @@
 \gunpresetkeys#S
 \gunsavekeys#S
 \newif{arg1}#S
-\noexpand#S
 \noexpand#S
 \presetkeys#S
 \savekeys#S
